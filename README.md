@@ -22,7 +22,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### Image
-![alt text](https://github.com/[ecann07]/[Basic_OnShape_CAD.]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[ecann07]/[Basic_OnShape_CAD.]/blob/[branch]/Castor Base.png?raw=true)
 <img src="images/Castor_Base.png" alt="The Base" width="200">
 
 ### Reflection
