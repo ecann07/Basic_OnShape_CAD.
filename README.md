@@ -98,11 +98,13 @@ I learned that when dimentioning an arc, when you click on it once it will go st
 ## AxleCollarBearings
 
 ### Description
-
+I had to create an axel, collar, and a bearing
 ### Evidence
-
+[Axel and collar in OnShape](https://cvilleschools.onshape.com/documents/579d1b8dc89325812513684d/w/9234c6380c76c0c94228bd79/e/42373cf8172f83b39376ce98)
+[Bearing in OnShape(On Wheel)](https://cvilleschools.onshape.com/documents/14f8846804e6cfe3115d821e/w/904640173c5e413f98725e8f/e/6c0d523274749b842f7a1df3)
 ### Image
-
+![Castor Bearing](https://user-images.githubusercontent.com/60944377/95271362-8e8cbc00-07f2-11eb-8271-fb5fdc9e7a5b.PNG)
+![Castor Collar and axel](https://user-images.githubusercontent.com/60944377/95271368-8fbde900-07f2-11eb-8676-2cc00267c1ec.PNG)
 ### Reflection
-
+I learned about the use tool, you use it it add a part that is not in the sketch to the sketch so you can reference off of it or use it to extrude.
 ---
