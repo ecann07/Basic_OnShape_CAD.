@@ -49,7 +49,7 @@ In this assignment I was supposed to add a mount on top of the base with four ho
 ### Image
 ![Castor Mount](https://user-images.githubusercontent.com/60944377/95152961-1c10d300-0743-11eb-9421-91bfc1274488.PNG)
 ### Reflection
-
+I learned how big of a difference there is between adding an extrude, and making a new extrude. Addig one continues the part you were working on while making a new one will also make a new part.
 ---
 
 
@@ -62,7 +62,7 @@ In this assignment we had to make a fork in OnShape by using the extrude and fil
 ### Image
 ![Castor Fork](https://user-images.githubusercontent.com/60944377/95152972-2206b400-0743-11eb-951b-c13bb83265b0.PNG)
 ### Reflection
-
+I lerned that when willeting a narrow edge, you must make sure that the fillet is smaller than the edge or it will break.
 ---
 
 
@@ -76,7 +76,7 @@ In this assignment I used a revolve to make the tire
 ![Castor Wheel](https://user-images.githubusercontent.com/60944377/95152975-24690e00-0743-11eb-9b36-072208a2dcc7.PNG)
 
 ### Reflection
-
+I learned that when you intend to create a revolve, you should create the axis of revolition as early as you can because that makes it much easier later.
 ---
 
 
@@ -91,7 +91,7 @@ In this assignment I used a revolve to make the inside of the wheel, then an ext
 
 
 ### Reflection
-
+I learned that when dimentioning an arc, when you click on it once it will go straight to the degrees, and not the length in milimeters.
 ---
 
 
