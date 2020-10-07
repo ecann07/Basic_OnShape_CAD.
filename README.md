@@ -113,9 +113,10 @@ I learned about the use tool, you use it it add a part that is not in the sketch
 ## Sub-assembly
 
 ### Description
-
+I had to mate the wheel, tire, 2 bearings, and the axel together.
 ### Evidence
-
+[Castor Sub-Assembly in OnShape](https://cvilleschools.onshape.com/documents/3e42400eada5f8ded86cd75a/w/0cb3debadb133053fd0977fe/e/26db150056c374b4054d2b4f)
 ### Image
-
+![Castor Wheel Sub-assembly](https://user-images.githubusercontent.com/60944377/95364100-410d5f00-0885-11eb-9eb8-a09eac98ecc5.PNG)
 ### Reflection
+I learned how to use the fastened mate(stays in place no movement) and the revolve mate( can move 360 degrees around the mate connector).
