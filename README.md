@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-assembly](#Sub-assembly)
 
 ## Base
 
@@ -109,7 +110,7 @@ I had to create an axel, collar, and a bearing
 I learned about the use tool, you use it it add a part that is not in the sketch to the sketch so you can reference off of it or use it to extrude.
 
 
-## Sub-assemblies
+## Sub-assembly
 
 ### Description
 
