@@ -120,3 +120,14 @@ I had to mate the wheel, tire, 2 bearings, and the axel together.
 ![Castor Wheel Sub-assembly](https://user-images.githubusercontent.com/60944377/95364100-410d5f00-0885-11eb-9eb8-a09eac98ecc5.PNG)
 ### Reflection
 I learned how to use the fastened mate(stays in place no movement) and the revolve mate( can move 360 degrees around the mate connector).
+
+
+## Final assembly
+
+### Description
+I had to mate all of the castor components 
+### Evidence
+[Castor Final Assembly In OnShape](https://cvilleschools.onshape.com/documents/9749b8c4712001c57117e611/w/26bd8206d4f0d0a866f031d5/e/40cb58c91a5661ae048e74e1)
+### Image
+
+### Reflection
