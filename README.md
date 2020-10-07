@@ -129,5 +129,6 @@ I had to mate all of the castor components
 ### Evidence
 [Castor Final Assembly In OnShape](https://cvilleschools.onshape.com/documents/9749b8c4712001c57117e611/w/26bd8206d4f0d0a866f031d5/e/40cb58c91a5661ae048e74e1)
 ### Image
-
+![Castor final assembly](https://user-images.githubusercontent.com/60944377/95372751-da8e3e00-0890-11eb-85a7-1a7983abfb24.PNG)
 ### Reflection
+I learned how to find the nuts and bolts etc. in OnShape,(go to insert within an assembly and select standard content). 
