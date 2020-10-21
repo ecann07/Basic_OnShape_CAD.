@@ -12,7 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-assembly](#Sub-assembly)
-
+* [OnShape challenge](#OnShape challenge)
 ## Base
 
 ### Description
@@ -132,3 +132,15 @@ I had to mate all of the castor components
 ![Castor final assembly](https://user-images.githubusercontent.com/60944377/95372751-da8e3e00-0890-11eb-85a7-1a7983abfb24.PNG)
 ### Reflection
 I learned how to find the nuts and bolts etc. in OnShape,(go to insert within an assembly and select standard content). 
+
+## OnShape challenge
+
+
+### Description
+I made a device that will roate a cube within two forks
+### Evidence
+[OnShape challenge in OnShape](https://cvilleschools.onshape.com/documents/6bf3a58fc15d8ef9913531ac/w/735e2759009ca4eec2ccbf1b/e/15ae9a180d97da0302298869)
+### Image
+
+### Reflection
+I learned that doing sketch filets can mess up the entire sketch and you should do sketch relations befor dimentioning. 
