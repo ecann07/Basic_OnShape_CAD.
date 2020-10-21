@@ -12,7 +12,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-assembly](#Sub-assembly)
-* [OnShape challenge](#OnShape challenge)
+* [OnShape challenge](#OnShape_challenge)
 ## Base
 
 ### Description
